@@ -1,0 +1,135 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "redux-persist",
+        "scope": null,
+        "escapedName": "redux-persist",
+        "name": "redux-persist",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel"
+    ]
+  ],
+  "_from": "redux-persist@latest",
+  "_id": "redux-persist@5.2.2",
+  "_inCache": true,
+  "_location": "/redux-persist",
+  "_nodeVersion": "8.0.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/redux-persist-5.2.2.tgz_1509478624776_0.25515334168449044"
+  },
+  "_npmUser": {
+    "name": "rt2zz",
+    "email": "ztstory@gmail.com"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "redux-persist",
+    "scope": null,
+    "escapedName": "redux-persist",
+    "name": "redux-persist",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/redux-persist/-/redux-persist-5.2.2.tgz",
+  "_shasum": "bf932164008e275d9e1fec38909a94168761e818",
+  "_shrinkwrap": null,
+  "_spec": "redux-persist",
+  "_where": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel",
+  "author": "",
+  "ava": {
+    "files": [
+      "tests/**/*.spec.js"
+    ],
+    "require": [
+      "babel-polyfill",
+      "babel-register"
+    ],
+    "babel": "inherit"
+  },
+  "dependencies": {},
+  "description": "persist and rehydrate redux stores",
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.0.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-flow": "^6.23.0",
+    "babel-register": "^6.24.1",
+    "cross-env": "^5.0.1",
+    "eslint": "^4.8.0",
+    "eslint-plugin-flowtype": "^2.30.4",
+    "eslint-plugin-import": "^2.2.0",
+    "flow-bin": "^0.56.0",
+    "flow-copy-source": "^1.1.0",
+    "husky": "^0.13.3",
+    "lint-staged": "^3.4.0",
+    "lodash": "^4.17.4",
+    "prettier": "^1.4.4",
+    "redux": "^3.6.0",
+    "redux-mock-store": "^1.2.3",
+    "rimraf": "^2.6.1",
+    "sinon": "^2.3.2"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-5MCaJb5ILjyuaA2nRNQYJJBHiWk7OLsXHoai4QcKFw8Ucn9BCnLKFtxhlr824C7WEiCxgQVxu00/FXbGjooGDg==",
+    "shasum": "bf932164008e275d9e1fec38909a94168761e818",
+    "tarball": "https://registry.npmjs.org/redux-persist/-/redux-persist-5.2.2.tgz"
+  },
+  "files": [
+    "es",
+    "src",
+    "lib"
+  ],
+  "gitHead": "87c4dd2ca0702db7df3866a19a55c15013cd24cd",
+  "license": "MIT",
+  "lint-staged": {
+    "src/**/*.js": [
+      "prettier --no-semi --single-quote --trailing-comma --parser=flow --write",
+      "git add"
+    ]
+  },
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "andarist",
+      "email": "mateuszburzynski@gmail.com"
+    },
+    {
+      "name": "rt2zz",
+      "email": "ztstory@gmail.com"
+    }
+  ],
+  "module": "es/index.js",
+  "name": "redux-persist",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "redux": ">3.0.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "build": "npm run flow-copy && npm run build:commonjs && npm run build:es",
+    "build:commonjs": "cross-env BABEL_ENV=commonjs babel src --out-dir lib",
+    "build:es": "cross-env BABEL_ENV=es babel src --out-dir es",
+    "clean": "rimraf es && rimraf lib",
+    "flow-copy": "flow-copy-source src es && flow-copy-source src lib",
+    "precommit": "lint-staged",
+    "prepublishOnly": "npm run clean && npm run build",
+    "test": "BABEL_ENV=commonjs ava"
+  },
+  "version": "5.2.2"
+}
