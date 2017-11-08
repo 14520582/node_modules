@@ -1,0 +1,90 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-responsive-image",
+        "scope": null,
+        "escapedName": "react-native-responsive-image",
+        "name": "react-native-responsive-image",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel"
+    ]
+  ],
+  "_from": "react-native-responsive-image@latest",
+  "_id": "react-native-responsive-image@2.1.0",
+  "_inCache": true,
+  "_location": "/react-native-responsive-image",
+  "_nodeVersion": "7.8.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-responsive-image-2.1.0.tgz_1492969528198_0.21388817531988025"
+  },
+  "_npmUser": {
+    "name": "ladislavmaxa01",
+    "email": "ladislavmaxa@outlook.com"
+  },
+  "_npmVersion": "4.5.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-responsive-image",
+    "scope": null,
+    "escapedName": "react-native-responsive-image",
+    "name": "react-native-responsive-image",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-responsive-image/-/react-native-responsive-image-2.1.0.tgz",
+  "_shasum": "121731e3ae478745899572d094dbf0a0a30c55d0",
+  "_shrinkwrap": null,
+  "_spec": "react-native-responsive-image",
+  "_where": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel",
+  "author": {
+    "name": "Ladislav Maxa",
+    "email": "ladislavmaxa@outlook.com",
+    "url": "https://github.com/Dharmoslap"
+  },
+  "bugs": {
+    "url": "https://github.com/Dharmoslap/react-native-responsive-images/issues"
+  },
+  "dependencies": {},
+  "description": "Image component, that resizes itself appropriately on various screensizes.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "121731e3ae478745899572d094dbf0a0a30c55d0",
+    "tarball": "https://registry.npmjs.org/react-native-responsive-image/-/react-native-responsive-image-2.1.0.tgz"
+  },
+  "gitHead": "497f06d1615b9c1d5dccf31a97a7a914d8c9380c",
+  "homepage": "https://github.com/Dharmoslap/react-native-responsive-images#readme",
+  "keywords": [
+    "React",
+    "Native"
+  ],
+  "license": "ISC",
+  "main": "react-native-responsive-image.js",
+  "maintainers": [
+    {
+      "name": "ladislavmaxa01",
+      "email": "ladislavmaxa@outlook.com"
+    }
+  ],
+  "name": "react-native-responsive-image",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharmoslap/react-native-responsive-images.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.1.0"
+}
