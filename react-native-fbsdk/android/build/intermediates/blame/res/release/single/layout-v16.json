@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
         "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\layout-v16\\notification_template_custom_big.xml",
         "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
     }
