@@ -72,16 +72,16 @@
         "source": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
-        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
         "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
-        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
@@ -148,12 +148,12 @@
         "source": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.22.1\\res\\drawable\\com_facebook_send_button_icon.xml"
     },
     {
-        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
         "merged": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",

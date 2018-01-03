@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -24,12 +24,12 @@
         "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\res\\merged\\release\\layout\\dev_loading_view.xml",
-        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.49.5\\res\\layout\\dev_loading_view.xml"
-    },
-    {
         "merged": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\res\\merged\\release\\layout\\redbox_item_title.xml",
         "source": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.49.5\\res\\layout\\redbox_item_title.xml"
+    },
+    {
+        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\res\\merged\\release\\layout\\dev_loading_view.xml",
+        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.49.5\\res\\layout\\dev_loading_view.xml"
     },
     {
         "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-linear-gradient\\android\\build\\intermediates\\res\\merged\\release\\layout\\redbox_view.xml",

@@ -52,12 +52,12 @@
         "source": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.22.1\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_topnub.png"
     },
     {
-        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
         "merged": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
         "source": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.22.1\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\HK1-2017-2018\\RN\\Project\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "C:\\Users\\hp\\Documents\\GitHub\\GoldenGavel\\node_modules\\react-native-fbsdk\\android\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
